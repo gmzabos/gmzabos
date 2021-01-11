@@ -1,5 +1,3 @@
-### Welcome
-
 <a href="https://www.linkedin.com/in/gerald-markus-zabos/">
     <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,5 +9,3 @@
 </a>
 <a href="https://keybase.io/gmzabos">
     <img align="left" alt="Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/keybase.svg" />
-<br />
-<br />
