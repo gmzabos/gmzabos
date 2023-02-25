@@ -10,6 +10,9 @@
 <a href="https://discordapp.com/users/510135133165191168">
     <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/discord.svg" />
 </a>
+<a href="https://steamcommunity.com/id/gmzabos/">
+    <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/steam.svg" />
+</a>                                                              
 <a href="https://www.redbubble.com/people/gmzabos/">
     <img align="left" alt="RedBubble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/redbubble.svg" />
 </a>
