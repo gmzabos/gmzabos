@@ -6,8 +6,12 @@
 </a>
 <a href="https://www.instagram.com/gmzabos">
     <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/instagram.svg" />
+</a>
 <a href="https://discordapp.com/users/510135133165191168">
     <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/discord.svg" />
+</a>
+<a href="https://www.redbubble.com/people/gmzabos/">
+    <img align="left" alt="RedBubble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/redbubble.svg" />
 </a>
 <a href="https://polkadot.subscan.io/account/16NKVAK4J7c3AgfffEXG9LbDWRPYQRgBgKUbN272nqRH19U6">
     <img align="left" alt="Polkadot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/polkadot.svg" />
