@@ -7,6 +7,9 @@
 <a href="https://www.instagram.com/gmzabos">
     <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/instagram.svg" />
 </a>
+<a href="https://open.spotify.com/user/gmzabos">
+    <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/spotify.svg" />
+</a>
 <a href="https://discordapp.com/users/510135133165191168">
     <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/discord.svg" />
 </a>
