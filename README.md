@@ -19,6 +19,9 @@
 <a href="https://www.redbubble.com/people/gmzabos/">
     <img align="left" alt="RedBubble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/redbubble.svg" />
 </a>
+<a href="https://www.paypal.com/paypalme/gmzabos">
+    <img align="left" alt="PayPal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/paypal.svg" />
+</a>
 <a href="https://polkadot.subscan.io/account/16NKVAK4J7c3AgfffEXG9LbDWRPYQRgBgKUbN272nqRH19U6">
     <img align="left" alt="Polkadot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/polkadot.svg" />
 </a>
