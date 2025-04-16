@@ -1,9 +1,6 @@
 <a href="https://www.linkedin.com/in/gerald-markus-zabos/">
     <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" />
 </a>
-<a href="https://x.com/gmzabos">
-    <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/twitter.svg" />
-</a>
 <a href="https://open.spotify.com/user/gmzabos">
     <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/spotify.svg" />
 </a>
